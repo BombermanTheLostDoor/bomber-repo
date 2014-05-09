@@ -1,0 +1,5 @@
+resources/bomberman_header.png
+resources/start.png
+resources/exit.png
+resources/character.png
+resources/stone.png
